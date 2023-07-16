@@ -2,6 +2,6 @@
 
 A minimal landing page for your Social Networks and other shared links.
 
-![gndx.io]()
+![WEB.io]()
 
 A free Linktree alternative.
